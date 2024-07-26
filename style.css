@@ -1,0 +1,38 @@
+* {
+    /* box-sizing: border-box; */
+    box-sizing: border-box;
+    margin: 0px; 
+    padding: 0px;
+    background-color: wheat;
+}
+
+li {
+    color: black;
+    border: solid 1px black;
+    padding: 1px;
+    list-style: none;
+    margin: 10px auto;  
+    width: 200px;
+    text-align: center;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+.title {
+    width: 250px;
+    font-size: 50px;
+    border: solid 3px black;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: lightsalmon;
+    margin: 10px auto;
+}
+
+#recipeIcon {
+    float: left;
+    margin-left: 37%;
+    background-color: transparent;
+}
