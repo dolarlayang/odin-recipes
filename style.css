@@ -21,18 +21,10 @@ a {
     text-decoration: none;
 }
 
-.title {
-    width: 250px;
+div .header {
     font-size: 50px;
-    border: solid 3px black;
-    text-transform: uppercase;
-    text-align: center;
-    background-color: lightsalmon;
-    margin: 10px auto;
-}
-
-#recipeIcon {
-    float: left;
-    margin-left: 37%;
-    background-color: transparent;
+    outline: solid 1px black;
+    /* display: inline-block; */
+    width: 200px;
+    margin: 0px auto;
 }
